@@ -1,0 +1,6 @@
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\bin\Debug\ab6_1.exe.config
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\bin\Debug\ab6_1.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\bin\Debug\ab6_1.pdb
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\obj\Debug\ab6_1.csproj.CoreCompileInputs.cache
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\obj\Debug\ab6_1.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab6\ab6_1\ab6_1\obj\Debug\ab6_1.pdb
